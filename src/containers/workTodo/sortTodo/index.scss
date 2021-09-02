@@ -1,0 +1,22 @@
+.sort-todo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0 36px;
+
+    .sort-name {
+        margin-right: 12px;
+        text-transform: uppercase;
+        color: rgb(187, 187, 187);
+        font-weight: 500;
+    }
+
+    .sort-select {
+        width: 180px;
+        background-color: #fff;
+        border-radius: 6px;
+        border: 1px solid #e7e8e8;
+        color: cadetblue;
+        padding: 8px 12px;
+    }
+}

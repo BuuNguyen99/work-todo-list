@@ -1,0 +1,15 @@
+.todo-list {
+    .list {
+        padding: 0 10px;
+        margin: 24px 26px;
+        max-height: 320px;
+        overflow: hidden;
+        overflow-y: auto;
+    }
+
+    .not-found {
+        text-align: center;
+        font-style: italic;
+        color: #ababab;
+    }
+}
